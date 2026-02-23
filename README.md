@@ -5,7 +5,7 @@
 <h1 align="center">BotGuard</h1>
 
 <p align="center">
-  <strong>Automated red-teaming & real-time firewall for AI agents</strong>
+  <strong>AI Agent Security — Automated Red-Teaming & Real-Time Firewall for LLM Apps</strong>
 </p>
 
 <p align="center">
