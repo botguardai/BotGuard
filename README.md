@@ -228,7 +228,7 @@ Full SDK documentation: **[Python](https://pypi.org/project/botguard/)** · **[N
 
 ## Contact & Support
 
-- **Email:** [hello@botguard.dev](mailto:hello@botguard.dev)
+- **Email:** [botguardai@gmail.com](mailto:botguardai@gmail.com)
 - **Support Portal:** [botguard.dev/contact](https://botguard.dev/contact)
 - **Documentation:** [botguard.dev/help](https://botguard.dev/help)
 
