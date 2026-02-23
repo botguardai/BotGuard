@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://botguard.dev">Website</a> · <a href="https://pypi.org/project/botguard/">Python SDK</a> · <a href="https://www.npmjs.com/package/botguard">Node.js SDK</a> · <a href="https://botguard.dev/docs">API Docs</a> · <a href="https://botguard.dev/signup">Sign Up Free</a>
+  <a href="https://botguard.dev">Website</a> · <a href="https://pypi.org/project/botguard/">Python SDK</a> · <a href="https://www.npmjs.com/package/botguard">Node.js SDK</a> · <a href="https://botguard.dev/api-docs">API Docs</a> · <a href="https://botguard.dev/signup">Sign Up Free</a>
 </p>
 
 <p align="center">
@@ -222,7 +222,7 @@ Full SDK documentation: **[Python](https://pypi.org/project/botguard/)** · **[N
 | **Sign Up (Free)** | [botguard.dev/signup](https://botguard.dev/signup) |
 | **Python SDK** | [pypi.org/project/botguard](https://pypi.org/project/botguard/) |
 | **Node.js SDK** | [npmjs.com/package/botguard](https://www.npmjs.com/package/botguard) |
-| **API Documentation** | [botguard.dev/docs](https://botguard.dev/docs) |
+| **API Documentation** | [botguard.dev/api-docs](https://botguard.dev/api-docs) |
 | **Pricing** | [botguard.dev/pricing](https://botguard.dev/pricing) |
 
 ---
