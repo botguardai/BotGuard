@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://botguard.dev/logo.png" alt="BotGuard" width="80" />
+  <img src="https://botguard.dev/favicon.svg" alt="BotGuard" width="80" />
 </p>
 
 <h1 align="center">BotGuard</h1>
